@@ -1,0 +1,1 @@
+Welcome to my React learning repository! 🚀 In this project, I’ll be exploring React, building components, and diving into state management. Whether you’re a fellow learner or just curious, feel free to follow along!
